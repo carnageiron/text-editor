@@ -1,5 +1,5 @@
 # Text Editor
-There's a gazillion options for text editors out there and i was not able to choose one for programming everyday and for making text files so I did what any sane person would do and made my own text editor.
+There's a gazillion options for text editors out there and i was not able to choose one for my everday work so I did what any sane person would do and made my own text editor.
 It's called "Text Editor", amazing name I know.
 Anyways it's written completely in C and has enough functionality in it for me to daily drive and it does everything I want.
 

@@ -1,5 +1,7 @@
 # Text Editor
 
+![Text Editor Demo](screenshot.png)
+
 This repository contains a simple text editor implemented in the C programming language. The text editor provides basic functionality for editing and manipulating text files.
 
 ## Features

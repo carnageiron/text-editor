@@ -1,4 +1,4 @@
-#define texter_VERSION "0.0.1"
+#define texter_VERSION "1.0"
 
 #ifdef __linux__
 #define _POSIX_C_SOURCE 200809L

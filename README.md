@@ -22,7 +22,7 @@ To use this text editor, follow the instructions below:
 2. Compile the `text.c` file using a C compiler.
 3. Run the compiled program.
 4. The text editor will open in the terminal.
-5. Use the keyboard or mouse to navigate and edit the text.
+5. Use the keyboard to navigate and edit the text.
 6. Save your changes using the appropriate command.
 7. Exit the text editor when finished.
 
